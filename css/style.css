@@ -1,0 +1,64 @@
+header{
+    
+    background-color:burlywood;
+    position:fixed;
+    height:50px;
+    font-family: 'Lobster', cursive;
+
+   
+      
+}
+
+nav li
+{
+    display: inline;
+    text-decoration:none;
+    
+    margin-left:50px;
+    margin-right:0;
+    font-family: 'Lobster', cursive;
+
+}
+.hero{
+    font-family: Arial;
+
+}
+body
+{
+    background-color:whitesmoke
+}
+footer{
+    background-color:burlywood;
+    height:50px;
+ }
+
+footer li{
+    display:inline;
+   
+}
+.thero {
+  display:block;
+   /* background-color: aqua;*/
+    margin-top: 20px;
+    padding-top: 0%;
+
+}
+
+    
+
+.primary
+{
+    background-color:white;
+}
+
+}
+.secondary
+{
+    background-color:greenyellow;
+}
+.wrapper
+{
+    display:grid;
+    font-size: 50px;
+}
+
