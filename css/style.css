@@ -3,62 +3,71 @@ header{
     background-color:burlywood;
     position:fixed;
     height:50px;
-    font-family: 'Lobster', cursive;
-
+    width:74%;
+    font-family: 'IM Fell English SC', serif;
    
-      
-}
-
-nav li
-{
-    display: inline;
-    text-decoration:none;
+   
     
-    margin-left:50px;
-    margin-right:0;
-    font-family: 'Lobster', cursive;
-
+} 
+   a:link{
+       text-decoration: none;
+   }
+.one{
+    text-transform:uppercase;
 }
-.hero{
-    font-family: Arial;
 
-}
-body
-{
-    background-color:whitesmoke
-}
-footer{
-    background-color:burlywood;
-    height:50px;
- }
-
-footer li{
+nav li{
     display:inline;
+    text-decoration: none;
+    font-size:20px;
+    line-height: 2.5;
+
+   
+
+}
+.primary_grid_12{
+    margin-top:20px;
+}
+h1{
+    text-transform: uppercase;
+    text-emphasis-color: brown;
    
 }
-.thero {
-  display:block;
-   /* background-color: aqua;*/
-    margin-top: 20px;
-    padding-top: 0%;
 
+.primary_grid_12
+{
+    text-align: justify;
+   
+    font-family: 'Arvo', serif;
 }
+.secondary_grid_12 
+{
+    text-align: justify;
+   
+    font-family: 'Arvo', serif;
+   
+   
+   }
+   
+li a:hover {
+    background-color:hotpink;}
+
+
+
+
+footer{
+    background-color: burlywood;
+  text-align:center;
 
     
-
-.primary
-{
-    background-color:white;
 }
+.copyright{
+    text-align:left;
 
 }
-.secondary
-{
-    background-color:greenyellow;
-}
-.wrapper
-{
-    display:grid;
-    font-size: 50px;
-}
 
+footer li
+{
+    display:inline;
+  
+}
